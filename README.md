@@ -35,7 +35,7 @@ Exclusion criteria: No psychiatric treatment, dental/orthodontic appliances.
 
 Recruitment: JO Hogares Claret Foundation (Centro de Reeducación el Oasis & Fundación Luz de Esperanza).
 
-Controls: Institución Educativa de Educación Media INEM Miguel Antonio Caro (Barranquilla).
+Controls: Institución Nacional de Educación Media INEM Miguel Antonio Caro (Barranquilla).
 
 ## Contents of the dataset
 
@@ -114,6 +114,7 @@ EEG_JO_Dataset/
 |   |   ├── sub-{Subject ID}{Group}_task-{Task Name}_desc-{Datatype}_eeg.json # Preprocessed data sidecar json
 |   |   └── sub-{Subject ID}{Group}_task-{Task Name}_desc-{Datatype}_eeg.set # Preprocessed data
 ├── ...
+├── CHANGES
 ├── dataset_description.json
 ├── participants.json
 ├── participants.tsv
