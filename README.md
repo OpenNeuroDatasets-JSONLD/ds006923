@@ -10,7 +10,7 @@ Desarrollo de un sistema inteligente multiparamétrico para el reconocimiento de
 
 ## Authors and acknowledgment
 
-Aura Polo, Elmer León, Mariana Pino-Melgarejo and Julie Viloria-Porto.
+Aura Polo, Elmer León-Becerra, Mariana Pino and Julie Viloria-Porto.
 
 Ronald Ruiz for his assistance during the data collection process, and Sergio Miranda for his dedication to data processing and cleaning.
 
