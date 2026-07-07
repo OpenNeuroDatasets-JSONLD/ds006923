@@ -223,4 +223,4 @@ This research was funded by the SISTEMA GENERAL DE REGALÍAS - SGR and the MINIS
 
 ## Support
 
-Correspondence: Aura Polo (apolol@unimagdalena.edu.co); Elmer León (elmerleondb@unimagdalena.edu.co); Julie Viloria-Porto (julieviloriapp@unimagdalena.edu.co)
+Correspondence: Aura Polo (apolol@unimagdalena.edu.co); Elmer León-Becerra (elmerleondb@unimagdalena.edu.co); Julie Viloria-Porto (julieviloriapp@unimagdalena.edu.co)
